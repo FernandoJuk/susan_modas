@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Regata",
+      "price": "35.00",
+      "id": 1,
+      "tamanho": "M"
+    },
+    {
+      "name": "calça Jeans",
+      "price": "150.00",
+      "tamanho": "G",
+      "id": 3
+    },
+    {
+      "name": "Shorts jeans",
+      "price": "75.00",
+      "tamanho": "48",
+      "id": 4
+    }
+  ]
+}
